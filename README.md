@@ -3,4 +3,6 @@ Authentication webapp using mongoDB and bootstrap, capabilities include registra
 
 Usage:
 
-npm install within project folder   npm start   navigate to localhost:3000  
+npm install within project folder     
+npm start      
+navigate to localhost:3000  
