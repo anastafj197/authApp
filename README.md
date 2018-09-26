@@ -1,5 +1,7 @@
 # authApp
 Authentication webapp using mongoDB and bootstrap, capabilities include registration, login / logout and encrypted passwords stored in a database. Eventually will have a blog posting functionality.  
+  
+The only missing component is the node modules folder which you can acess by messaging me at frankie.anastasia@gmail.com
 
 Usage:
 
